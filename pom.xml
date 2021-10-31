@@ -45,17 +45,17 @@
             <artifactId>druid</artifactId>
             <version>1.1.23</version>
         </dependency>
-<!--        <dependency>
+        <dependency>
             <groupId>com.github.jeffreyning</groupId>
             <artifactId>extcol</artifactId>
             <version>0.0.3-RELEASE</version>
-        </dependency>-->
-        <dependency>
+        </dependency>
+<!--        <dependency>
             <artifactId>extcol</artifactId>
             <version>0.0.3-RELEASE</version>
             <scope>system</scope>
             <systemPath>E:\m2\rep\com\github\jeffreyning\extcol\0.0.3-RELEASE\extcol-0.0.3-RELEASE.jar</systemPath>
-        </dependency>
+        </dependency>-->
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
